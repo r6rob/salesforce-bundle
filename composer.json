@@ -11,7 +11,7 @@
     "genesis-global/salesforce": "^1.1.9"
   },
   "require-dev": {
-    "phpunit/phpunit": "~6.5"
+    "phpunit/phpunit": "~9.5"
   },
   "autoload": {
     "psr-4": {
